@@ -1,0 +1,4 @@
+<Map>
+  <TileLayer>Layers/IntroToBosses.layer</TileLayer>
+  <CollisionLayer>Layers/IntroToBossesCollision.collayer</CollisionLayer>
+</Map>

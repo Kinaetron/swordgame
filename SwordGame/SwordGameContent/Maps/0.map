@@ -1,0 +1,4 @@
+<Map>
+  <TileLayer>Layers/IntroBuilding.layer</TileLayer>
+  <CollisionLayer>Layers/IntroBuildingCollision.collayer</CollisionLayer>
+</Map>

@@ -1,0 +1,4 @@
+<Map>
+  <TileLayer>Layers/Transition1.layer</TileLayer>
+  <CollisionLayer>Layers/Transition1Collision.collayer</CollisionLayer>
+</Map>
